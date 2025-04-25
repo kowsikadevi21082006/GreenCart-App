@@ -51,3 +51,12 @@ GreenCart is a full-stack grocery e-commerce application where users can browse 
 git clone https://github.com/your-username/GreenCart-App.git
 cd GreenCart-App
 
+
+🔗 [Backend-Deployed-Link](https://greenbackend.vercel.app)
+
+
+🔗 [Frontend-Deployed-Link](https://greenfrontend.vercel.app)
+
+
+
+
